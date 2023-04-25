@@ -1,0 +1,4 @@
+# Generated
+/dist/
+/package-lock.json
+/.parcel-cache/
